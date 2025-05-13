@@ -186,7 +186,3 @@ Run the Jupyter Notebook `fetch_data.ipynb` and execute all cells.
 * API key quotas may be exceeded if you perform many searches in a day. Consider batching requests and handling quota errors.
 * The YouTube API does not guarantee language metadata for every video.
 * Fuzzy title matching is heuristic and might miss or overmatch in some cases.
-
----
-
-Let me know if you want this in PDF, LaTeX, or formatted for a GitHub `README.md` file.
